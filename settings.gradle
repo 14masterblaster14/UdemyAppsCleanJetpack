@@ -1,0 +1,8 @@
+include ':retrofit'
+include ':room'
+include ':coroutine'
+include ':dogsapp'
+include ':app'
+rootProject.name = "UdemyApps"
+include ':notifications'
+include ':workmanager'
