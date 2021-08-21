@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/notifications" />
             <option value="$PROJECT_DIR$/retrofit" />
             <option value="$PROJECT_DIR$/room" />
+            <option value="$PROJECT_DIR$/viewbinding" />
             <option value="$PROJECT_DIR$/workmanager" />
           </set>
         </option>
