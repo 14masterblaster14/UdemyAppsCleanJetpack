@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose</string>
+    <string name="title_activity_tv_show">TvShowActivity</string>
+    <string name="title_activity_tv_show_info">TvShowInfoActivity</string>
+</resources>
