@@ -7,3 +7,4 @@ rootProject.name = "UdemyApps"
 include ':notifications'
 include ':workmanager'
 include ':viewbinding'
+include ':compose'
